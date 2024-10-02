@@ -1,0 +1,4 @@
+.vercel
+*.pkl
+*.h5
+*.csv
